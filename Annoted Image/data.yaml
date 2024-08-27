@@ -1,0 +1,8 @@
+train: /content/drive/MyDrive/Annoted Image/images
+val: /content/drive/MyDrive/Annoted Image/images
+nc: 4
+names:
+  0: 'Knives'
+  1: 'Machine Guns'
+  2: 'Non-Weaponed Elements'
+  3: 'Pistol'
