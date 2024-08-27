@@ -12,7 +12,7 @@
 
 ## Mentor
 
-- **[Adhiroop Talasila]** - [Mentor's Role/Title]
+- **[Mr. Adhiroop Talasila]** - [Mentor]
 
 ## Project Overview
 
