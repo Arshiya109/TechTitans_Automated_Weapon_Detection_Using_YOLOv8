@@ -4,15 +4,15 @@
 
 ## Team Information
 
-- **[Grishma Yenchilwar]** - [Team Leader]
-- **[Arshiya Saiyyad]** - [Team member]
-- **[Ekta Kature]** - [Team member]
-- **[Pranali Sharma]** - [Team member] 
--  **[Vishakha Udapurkar]** - [Team member]
+- **Grishma Yenchilwar** - [Team Leader]
+- **Arshiya Saiyyad** - [Team member]
+- **Ekta Kature** - [Team member]
+- **Pranali Sharma** - [Team member] 
+- **Vishakha Udapurkar** - [Team member]
 
 ## Mentor
 
-- **[Mr. Adhiroop Talasila]** - [Mentor]
+- **Mr. Adhiroop Talasila** - [Mentor]
 
 ## Project Overview
 
