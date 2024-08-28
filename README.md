@@ -114,14 +114,8 @@ To deploy the trained YOLOv8 model for object detection, it will follow these st
 
   ```python
   from ultralytics import YOLO
-
-  # Load the trained model
   model = YOLO('best.pt')
-
-  # Perform detection on an image
   results = model.predict('path_to_image.jpg')
-
-  # Display the results
   results.show()
 
 
